@@ -21,5 +21,12 @@ class HomeViewController: BaseViewController {
         // Dispose of any resources that can be recreated.
     }
     
+    @IBAction func LoadSetps(sender: AnyObject) {
+        
+        let storyboard = UIStoryboard.mainStoryboard()
+        let viewController: StepsViewController = storyboard.instantiateViewControllerWithIdentifier("StepsViewController") as! StepsViewController
+          self.navigationController!.presentViewController(viewController, animated: true, completion: nil)
 
+    }
+ 
 }

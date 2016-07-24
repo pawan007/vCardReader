@@ -62,6 +62,8 @@
 		D42385BD1D44ED6200A59543 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D42385BC1D44ED6200A59543 /* HomeViewController.swift */; };
 		D42385BF1D44F6DF00A59543 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D42385BE1D44F6DF00A59543 /* SettingsViewController.swift */; };
 		D42385C11D44F6F300A59543 /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D42385C01D44F6F300A59543 /* AboutViewController.swift */; };
+		D42385C51D45076300A59543 /* StepsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D42385C41D45076300A59543 /* StepsViewController.swift */; };
+		D42385C71D45109000A59543 /* ContainerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D42385C61D45109000A59543 /* ContainerViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -149,6 +151,8 @@
 		D42385BC1D44ED6200A59543 /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		D42385BE1D44F6DF00A59543 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 		D42385C01D44F6F300A59543 /* AboutViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
+		D42385C41D45076300A59543 /* StepsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StepsViewController.swift; sourceTree = "<group>"; };
+		D42385C61D45109000A59543 /* ContainerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContainerViewController.swift; sourceTree = "<group>"; };
 		E8959B6511603CA1DA3B2B2A /* Pods_vCardReaderTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_vCardReaderTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -394,6 +398,8 @@
 				D42385BC1D44ED6200A59543 /* HomeViewController.swift */,
 				D42385BE1D44F6DF00A59543 /* SettingsViewController.swift */,
 				D42385C01D44F6F300A59543 /* AboutViewController.swift */,
+				D42385C41D45076300A59543 /* StepsViewController.swift */,
+				D42385C61D45109000A59543 /* ContainerViewController.swift */,
 			);
 			path = Home;
 			sourceTree = "<group>";
@@ -670,6 +676,7 @@
 				D423859A1D44E93600A59543 /* Array+Additions.swift in Sources */,
 				D423859F1D44E93600A59543 /* Float+Additions.swift in Sources */,
 				D42385B51D44E93600A59543 /* UITextField+Additions.swift in Sources */,
+				D42385C51D45076300A59543 /* StepsViewController.swift in Sources */,
 				D42385991D44E93600A59543 /* DesignableView.swift in Sources */,
 				D423859D1D44E93600A59543 /* Dictionary+Additions.swift in Sources */,
 				D42385A01D44E93600A59543 /* Int+Additions.swift in Sources */,
@@ -681,6 +688,7 @@
 				D42385A11D44E93600A59543 /* Int+NSTimeInterval.swift in Sources */,
 				D42385B91D44E93600A59543 /* UIViewController+UIImagePickerController.swift in Sources */,
 				D42385B41D44E93600A59543 /* UIStoryboard+Additions.swift in Sources */,
+				D42385C71D45109000A59543 /* ContainerViewController.swift in Sources */,
 				D423859B1D44E93600A59543 /* Array+Operators.swift in Sources */,
 				D423859E1D44E93600A59543 /* Double+Additions.swift in Sources */,
 				D423859C1D44E93600A59543 /* Character+Addition.swift in Sources */,

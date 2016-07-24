@@ -15,6 +15,7 @@ target 'vCardReader' do
     pod 'Alamofire', '~> 3.4'
     pod 'Kingfisher', '~> 2.4'
     pod 'IQKeyboardManagerSwift'
+    pod 'RMStepsController'
     
     
     

@@ -19,6 +19,7 @@ PODS:
   - MMDrawerController/Subclass (0.5.7):
     - MMDrawerController/Core
   - Reachability (3.2)
+  - RMStepsController (1.0.2)
   - SwiftSpinner (0.9.5)
   - TTTAttributedLabel (2.0.0)
   - XCGLogger (3.3)
@@ -31,6 +32,7 @@ DEPENDENCIES:
   - Mixpanel
   - MMDrawerController (~> 0.5.7)
   - Reachability (~> 3.2)
+  - RMStepsController
   - SwiftSpinner
   - TTTAttributedLabel
   - XCGLogger (~> 3.3)
@@ -43,10 +45,11 @@ SPEC CHECKSUMS:
   Mixpanel: ac92056ee35a961362513ba11049e67cffcaa1f1
   MMDrawerController: 7a4cf8e25596bf2434e03ce50d22a8608ddee6a1
   Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  RMStepsController: 195aa02c57ee5fea74483d0b9dcc30881ae7639d
   SwiftSpinner: c6585a0ae5c67eb33e737695cce88f0262008cce
   TTTAttributedLabel: 8cffe8e127e4e82ff3af1e5386d4cd0ad000b656
   XCGLogger: d6e196e78940ff6daab17d6917107876f973fa31
 
-PODFILE CHECKSUM: 05c8d1bb0796f06b81a0c9b313e061876239413d
+PODFILE CHECKSUM: 2aa056e5e2068d493e29e69226509ae6df75d474
 
 COCOAPODS: 1.0.1
