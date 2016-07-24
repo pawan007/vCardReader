@@ -1,0 +1,6 @@
+framework module Pods_vCardReaderUITests {
+  umbrella header "Pods-vCardReaderUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
